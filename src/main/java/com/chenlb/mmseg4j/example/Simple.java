@@ -19,6 +19,7 @@ public class Simple extends Complex {
 	public static void main(String[] args) throws IOException {
 		//new Simple().run(args);
 
+		
 	}
 
 }
